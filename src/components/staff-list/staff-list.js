@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import {List, Row, Typography} from 'antd'
+import {Link} from 'react-router-dom'
 import connect from 'react-redux/es/connect/connect'
 import i18n from '../../decorators/i18n'
 import Loader from '../loader'
@@ -14,7 +15,11 @@ class StaffList extends Component {
   componentDidMount() {
     !this.props.loaded && this.props.fetchData()
   }
-  renderStaff = staff => <Staff key={staff.id} staff={staff} />
+  renderStaff = staff => (
+    <Link to={`staff/${staff.id}`}>
+      <Staff key={staff.id} staff={staff} />
+    </Link>
+  )
   render() {
     const {staffs, staffsLoading, t} = this.props
     return staffsLoading ? (

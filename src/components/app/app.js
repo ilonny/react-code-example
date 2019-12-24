@@ -4,6 +4,7 @@ import Header from '../header'
 import {Redirect, Route, Switch} from 'react-router-dom'
 import {Provider as I18nProvider} from '../../contexts/i18n'
 import StaffListPage from '../routes/staff-list-page'
+import StaffDetailPage from '../routes/staff-detail-page'
 import './app.css'
 
 class App extends Component {
@@ -27,9 +28,9 @@ class App extends Component {
                 }}
               />
               <Route
-                path={'/staff:id'}
+                path={'/staff/:id'}
                 render={params => {
-                  return <p>restaurants</p>
+                  return <StaffDetailPage />
                 }}
               />
               <Redirect from={'/'} exact to={'/staff-list'} />

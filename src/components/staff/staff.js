@@ -1,5 +1,5 @@
 import React, {PureComponent} from 'react'
-import {Col, Skeleton, Switch, Card, Icon, Avatar} from 'antd'
+import {Col, Card, Avatar} from 'antd'
 const {Meta} = Card
 class Staff extends PureComponent {
   render() {
