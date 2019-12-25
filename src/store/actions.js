@@ -13,3 +13,10 @@ export const loadStaffs = () => {
     callAPI: '/api/staffs',
   }
 }
+
+export const loadStaff = () => {
+  return {
+    type: LOAD_STAFF,
+    callAPI: '/api/staff',
+  }
+}
