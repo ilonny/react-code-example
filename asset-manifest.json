@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": ":http://ilonny.github.io/react-code-example/static/css/main.b57b60dd.chunk.css",
-    "main.js": ":http://ilonny.github.io/react-code-example/static/js/main.50c2af61.chunk.js",
-    "main.js.map": ":http://ilonny.github.io/react-code-example/static/js/main.50c2af61.chunk.js.map",
-    "runtime~main.js": ":http://ilonny.github.io/react-code-example/static/js/runtime~main.ca8c52f1.js",
-    "runtime~main.js.map": ":http://ilonny.github.io/react-code-example/static/js/runtime~main.ca8c52f1.js.map",
-    "static/css/2.aef8ad04.chunk.css": ":http://ilonny.github.io/react-code-example/static/css/2.aef8ad04.chunk.css",
-    "static/js/2.c3e1b9c8.chunk.js": ":http://ilonny.github.io/react-code-example/static/js/2.c3e1b9c8.chunk.js",
-    "static/js/2.c3e1b9c8.chunk.js.map": ":http://ilonny.github.io/react-code-example/static/js/2.c3e1b9c8.chunk.js.map",
-    "index.html": ":http://ilonny.github.io/react-code-example/index.html",
-    "precache-manifest.510ed1f3edfb4ddbd278410ec7f79d38.js": ":http://ilonny.github.io/react-code-example/precache-manifest.510ed1f3edfb4ddbd278410ec7f79d38.js",
-    "service-worker.js": ":http://ilonny.github.io/react-code-example/service-worker.js",
-    "static/css/2.aef8ad04.chunk.css.map": ":http://ilonny.github.io/react-code-example/static/css/2.aef8ad04.chunk.css.map",
-    "static/css/main.b57b60dd.chunk.css.map": ":http://ilonny.github.io/react-code-example/static/css/main.b57b60dd.chunk.css.map"
+    "main.css": "/react-code-example/static/css/main.b57b60dd.chunk.css",
+    "main.js": "/react-code-example/static/js/main.50c2af61.chunk.js",
+    "main.js.map": "/react-code-example/static/js/main.50c2af61.chunk.js.map",
+    "runtime~main.js": "/react-code-example/static/js/runtime~main.0b623d79.js",
+    "runtime~main.js.map": "/react-code-example/static/js/runtime~main.0b623d79.js.map",
+    "static/css/2.aef8ad04.chunk.css": "/react-code-example/static/css/2.aef8ad04.chunk.css",
+    "static/js/2.6b7bcafe.chunk.js": "/react-code-example/static/js/2.6b7bcafe.chunk.js",
+    "static/js/2.6b7bcafe.chunk.js.map": "/react-code-example/static/js/2.6b7bcafe.chunk.js.map",
+    "index.html": "/react-code-example/index.html",
+    "precache-manifest.c360074ac9b117429fabe09443c93ec0.js": "/react-code-example/precache-manifest.c360074ac9b117429fabe09443c93ec0.js",
+    "service-worker.js": "/react-code-example/service-worker.js",
+    "static/css/2.aef8ad04.chunk.css.map": "/react-code-example/static/css/2.aef8ad04.chunk.css.map",
+    "static/css/main.b57b60dd.chunk.css.map": "/react-code-example/static/css/main.b57b60dd.chunk.css.map"
   }
 }
