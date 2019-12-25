@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
-import {Typography, Card, Icon, Avatar, Row, Col} from 'antd'
+import {Card, Row, Col} from 'antd'
+import Reviews from '../reviews'
 import './staff-detail-card.css'
-const {Title} = Typography
 const {Meta} = Card
 class StaffDetailCard extends Component {
   render() {
@@ -21,6 +21,7 @@ class StaffDetailCard extends Component {
             </Card>
           </Col>
         </Row>
+        <Reviews staff={staff} />
       </main>
     )
   }

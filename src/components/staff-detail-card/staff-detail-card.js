@@ -11,7 +11,6 @@ class StaffDetailCard extends Component {
     !staff && fetchStaff(id)
   }
   render() {
-    console.log('staff props', this.props)
     const {staff} = this.props
     return staff ? <StaffCard staff={staff} /> : <Loader />
   }

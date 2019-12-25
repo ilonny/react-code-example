@@ -9,6 +9,7 @@ export const en = {
   'post review': 'Post review',
   cancel: 'Cancel',
   'add review': 'Add review',
+  reviews: 'Reviews',
 }
 
 export const ru = {
@@ -22,6 +23,7 @@ export const ru = {
   'post review': 'Опубликовать отзыв',
   cancel: 'Отменить',
   'add review': 'Добавить отзыв',
+  reviews: 'Отзывы',
 }
 
 export default {ru, en}
