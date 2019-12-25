@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": ":http://ilonny.github.io/frontend-code-example/static/css/main.b57b60dd.chunk.css",
+    "main.js": ":http://ilonny.github.io/frontend-code-example/static/js/main.50c2af61.chunk.js",
+    "main.js.map": ":http://ilonny.github.io/frontend-code-example/static/js/main.50c2af61.chunk.js.map",
+    "runtime~main.js": ":http://ilonny.github.io/frontend-code-example/static/js/runtime~main.a176c4e0.js",
+    "runtime~main.js.map": ":http://ilonny.github.io/frontend-code-example/static/js/runtime~main.a176c4e0.js.map",
+    "static/css/2.aef8ad04.chunk.css": ":http://ilonny.github.io/frontend-code-example/static/css/2.aef8ad04.chunk.css",
+    "static/js/2.15ff92ac.chunk.js": ":http://ilonny.github.io/frontend-code-example/static/js/2.15ff92ac.chunk.js",
+    "static/js/2.15ff92ac.chunk.js.map": ":http://ilonny.github.io/frontend-code-example/static/js/2.15ff92ac.chunk.js.map",
+    "index.html": ":http://ilonny.github.io/frontend-code-example/index.html",
+    "precache-manifest.d74c2e081407e78b396c627e033590fb.js": ":http://ilonny.github.io/frontend-code-example/precache-manifest.d74c2e081407e78b396c627e033590fb.js",
+    "service-worker.js": ":http://ilonny.github.io/frontend-code-example/service-worker.js",
+    "static/css/2.aef8ad04.chunk.css.map": ":http://ilonny.github.io/frontend-code-example/static/css/2.aef8ad04.chunk.css.map",
+    "static/css/main.b57b60dd.chunk.css.map": ":http://ilonny.github.io/frontend-code-example/static/css/main.b57b60dd.chunk.css.map"
+  }
+}
