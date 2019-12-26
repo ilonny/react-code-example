@@ -21,7 +21,7 @@ class StaffDetailCard extends Component {
             </Card>
           </Col>
         </Row>
-        <Reviews staff={staff} />
+        <Reviews staff={staff} id={staff.id} />
       </main>
     )
   }
